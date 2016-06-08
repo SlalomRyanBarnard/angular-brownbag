@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;GAEG;ACFH,WAAE;EACA,aAAa,EAAE,GAAG;AAGpB,sBAAW;EACT,gBAAgB,EAAE,OAAO;;ACL3B,yBAAW;EACT,gBAAgB,EAAE,OAAO;AAG3B,sBAAQ;EACN,WAAW,EAAE,IAAI;;ACLnB,cAAE;EACA,UAAU,EAAE,GAAG;AAGjB,yBAAW;EACT,gBAAgB,EAAE,OAAO",
+"sources": ["../../sass/main.scss","../../sass/modules/section-top.scss","../../sass/modules/section-middle.scss","../../sass/modules/section-bottom.scss"],
+"names": [],
+"file": "brownbag.css"
+}

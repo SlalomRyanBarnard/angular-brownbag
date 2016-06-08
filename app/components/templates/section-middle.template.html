@@ -1,0 +1,18 @@
+<div class="container">
+    <div class="row">
+        <div class="col-xs-3">
+            Enter a text string:
+        </div>
+        <div class="col-xs-8">
+            <input type="text" class="form-control" ng-model="vm.userInput">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-3">
+            Removed vowels:
+        </div>
+        <div class="col-xs-8">
+            <div class="result" ng-bind="vm.userInput | removeVowels"></div>
+        </div>
+    </div>
+</div>

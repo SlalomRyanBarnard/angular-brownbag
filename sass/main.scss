@@ -1,0 +1,27 @@
+/**
+ * SASS architecture derived from https://www.sitepoint.com/architecture-sass-project/
+ */
+
+
+// Import all vendor (3rd party) SCSS or CSS
+
+
+// Import all mixins
+@import "mixins/transforms";
+
+
+// Import all partials
+
+
+// Import all modules
+section.top {
+  @import "modules/section-top";
+}
+
+section.middle {
+  @import "modules/section-middle";
+}
+
+section.bottom {
+  @import "modules/section-bottom";
+}
